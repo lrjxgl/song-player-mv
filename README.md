@@ -24,3 +24,5 @@ python player-mv.py
 [79]我们依然勇敢向前行
 ```
 ![ui](https://github.com/user-attachments/assets/20d8e2cd-9e43-40bd-9d63-f79d2c01657b)
+
+交流论坛： https://www.haicms.com/module.php?m=ask&a=list&gid=16 
